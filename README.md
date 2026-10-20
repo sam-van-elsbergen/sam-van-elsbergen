@@ -26,6 +26,12 @@ installer voor Windows.
   build-stap: de werkende jar blijft altijd staan als er iets misgaat.
 - Eigen servertests (API en WebSocket) die bij elke push in GitHub Actions draaien.
 
+## Contributors
+
+De bijdragers van Sylva Launcher vind je hier:
+
+- [S4mske](https://github.com/S4mske)
+
 ## Contact
 
 Vragen of ideeën? Open een issue in de bijbehorende repository of stuur een bericht
